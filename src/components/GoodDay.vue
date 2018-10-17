@@ -6,10 +6,10 @@
             </div>
             <transition enter-active-class="animated fadeInUp" leave-active-class="animated fadeOutDown">
                 <div v-if="text1">
-                    <h1>I wish you today a good day</h1>
-                    <transition enter-active-class="animated bounceIn" leave-active-class="animated fadeOutDown">
-                        <h2 v-if="text2">кудряха)</h2>
-                    </transition>
+                    <h1>I wish you a great day and good mood :)</h1>
+                    <!--<transition enter-active-class="animated bounceIn" leave-active-class="animated fadeOutDown">-->
+                        <!--<h1 class="qq" v-if="text2">посылаю лучи радости и тд)))</h1>-->
+                    <!--</transition>-->
                 </div>
             </transition>
         </div>
@@ -33,5 +33,8 @@
 </script>
 
 <style>
-
+    /*@import url('https://fonts.googleapis.com/css?family=Mali|Lato|Pacifico');*/
+    h1{
+        font-size: 3em!important;
+    }
 </style>
