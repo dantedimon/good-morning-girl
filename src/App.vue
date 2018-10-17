@@ -62,7 +62,7 @@
         justify-content: center;
 
         .image {
-            max-width: 300px;
+            max-width: 280px;
         }
     }
 
@@ -74,7 +74,7 @@
 
     h1 {
         text-shadow: 5px 5px #9575CD, 8px 8px rgba(0, 0, 0, .2);
-        font-size: 3.2em;
+        font-size: 2.5em;
         margin: 0;
         color: floralwhite;
         text-align: center;

@@ -35,6 +35,6 @@
 <style>
     /*@import url('https://fonts.googleapis.com/css?family=Mali|Lato|Pacifico');*/
     h1{
-        font-size: 3em!important;
+        font-size: 2.2em!important;
     }
 </style>

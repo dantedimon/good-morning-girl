@@ -8,7 +8,7 @@
                 <div v-if="text1">
                     <h1>Good morning</h1>
                     <transition enter-active-class="animated bounceIn" leave-active-class="animated fadeOutDown">
-                        <h2 v-if="text2">кудряха)</h2>
+                        <h2 v-if="text2">кудряха</h2>
                     </transition>
                 </div>
             </transition>
